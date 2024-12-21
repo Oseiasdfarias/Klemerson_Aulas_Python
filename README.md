@@ -9,12 +9,10 @@
   <img height="100px" src="./utils/python.png">
 </p>
 
-
-
 # Cronograma de Aulas: Introdução ao Python e Ciência de Dados
 
 ## Visão Geral
-Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, com duração de 1 hora cada. O foco é fornecer uma base sólida de Python e sua aplicação em ciência de dados.
+Este cronograma cobre 9 semanas de aulas, realizadas aos sábados e domingos, com duração de 1 hora cada. O foco é fornecer uma base sólida de Python e sua aplicação em ciência de dados.
 
 ---
 
@@ -26,7 +24,19 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 2: Python Básico
+## Semana 2: Introdução ao RPA com Python
+- **Sábado:**  
+  Introdução ao conceito de RPA (Automatização de Processos Robóticos) e exemplos de aplicações.
+  - Apresentação da biblioteca **pyautogui**: Instalação, conceitos básicos e casos de uso.
+- **Domingo:**  
+  Exploração de bibliotecas adicionais para RPA: 
+  - **openpyxl**: Manipulação de planilhas.
+  - **schedule**: Agendamento de tarefas automatizadas.
+  - Exemplo prático integrando bibliotecas para criar um fluxo de automação.
+
+---
+
+## Semana 3: Python Básico
 - **Sábado:**  
   Condicionais (if, elif, else) e estruturas de repetição (for, while).
 - **Domingo:**  
@@ -34,7 +44,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 3: Python Básico
+## Semana 4: Python Básico
 - **Sábado:**  
   Manipulação de strings e listas: Métodos comuns e boas práticas.
 - **Domingo:**  
@@ -42,7 +52,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 4: Python Básico
+## Semana 5: Python Básico
 - **Sábado:**  
   Exercícios práticos para consolidar os conceitos básicos.
 - **Domingo:**  
@@ -50,7 +60,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 5: Funções em Python
+## Semana 6: Funções em Python
 - **Sábado:**  
   Escopo de variáveis e boas práticas na criação de funções.
 - **Domingo:**  
@@ -58,7 +68,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 6: Python para Ciência de Dados
+## Semana 7: Python para Ciência de Dados
 - **Sábado:**  
   Introdução a bibliotecas: Instalação de pacotes (pip) e uso básico de Pandas, NumPy e Matplotlib.
 - **Domingo:**  
@@ -66,7 +76,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 7: Python para Ciência de Dados
+## Semana 8: Python para Ciência de Dados
 - **Sábado:**  
   Visualização de dados com Matplotlib e Seaborn: Gráficos simples e personalizações.
 - **Domingo:**  
@@ -74,7 +84,7 @@ Este cronograma cobre 8 semanas de aulas, realizadas aos sábados e domingos, co
 
 ---
 
-## Semana 8: Projeto Prático
+## Semana 9: Projeto Prático
 - **Sábado:**  
   Aplicando conceitos para realizar uma análise exploratória de dados real.
 - **Domingo:**  
