@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img height="100px" src="../utils/python.png">
+  <img height="100px" src="..   /utils/python.png">
 </p>
 
 
