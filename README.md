@@ -89,3 +89,16 @@ Este cronograma cobre 9 semanas de aulas, realizadas aos sábados e domingos, co
   Aplicando conceitos para realizar uma análise exploratória de dados real.
 - **Domingo:**  
   Refinamento do projeto e apresentação de insights.
+
+
+---
+
+## Ideias Futuras
+- Desenvolvimento de projetos práticos sobre cada tema abordado, como:
+  - Automação de tarefas reais usando RPA com Python.
+  - Criação de dashboards interativos com bibliotecas de visualização.
+  - Análise de datasets públicos para identificar padrões e insights.
+  - Implementação de modelos simples de machine learning usando scikit-learn.
+- Introdução a frameworks avançados de ciência de dados, como PyTorch e TensorFlow.
+- Exploração de ferramentas de big data, como Spark e Hadoop.
+- Desenvolvimento de pipelines de dados automatizados com Python.
