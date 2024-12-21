@@ -17,7 +17,7 @@ Este cronograma cobre 9 semanas de aulas, realizadas aos sábados e domingos, co
 ---
 
 ## Semana 1: Visão Geral e Introdução ao Python
-- **Sábado:**: [Aula 01](/aula_01/README.md)\
+- **Sábado:**: [Aula 01](/aula_01/)\
   Configuração do ambiente: Instalação do Python, configuração de IDEs (VS Code e Jupyter Notebook) e introdução ao Python. Visão geral de bibliotecas para ciência de dados (Pandas, NumPy, Matplotlib).
 - **Domingo:**  
   Estrutura básica do Python: Entrada/saída de dados, variáveis e operações matemáticas e lógicas. Introdução ao GitHub: O que é, criação de repositórios e integração com projetos Python.
