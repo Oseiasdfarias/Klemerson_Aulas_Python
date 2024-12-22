@@ -39,15 +39,10 @@ Apresentar o ambiente de desenvolvimento Python, configurar as ferramentas neces
 - Tipos de dados básicos:  
   - Números (inteiros, floats).  
   - Strings (operações e boas práticas).
+  - Booleanos (True, False)
 
-### **4. Visão Geral das Bibliotecas (10 minutos)**
-- Apresentação das principais bibliotecas para ciência de dados:
-  - **Pandas:** Manipulação de dados em tabelas.
-  - **NumPy:** Operações matemáticas e vetoriais.
-  - **Matplotlib e Seaborn:** Visualização de dados.
-- Demonstração rápida de import de bibliotecas e explicação de como instalá-las com `pip`.
 
-### **5. Encerramento (5 minutos)**
+### **4. Encerramento (5 minutos)**
 - Recapitulação dos principais pontos abordados.
 - Resposta a dúvidas.
 - Tarefa de casa:  
@@ -67,3 +62,82 @@ Apresentar o ambiente de desenvolvimento Python, configurar as ferramentas neces
 ---
 
 **Próxima Aula:** Estrutura básica do Python: Entrada/saída de dados, variáveis e operações matemáticas e lógicas. Introdução ao GitHub.
+
+
+---
+
+
+# Questões
+
+1. **Operações Matemáticas**  
+   Escreva um programa que:  
+   - Declare duas variáveis `a = 50.0` e `b = 25.0`.
+   - Calcule a soma, subtração, multiplicação, divisão e exponenciação (elevar `a` ao valor de `b`) e exiba os resultados no console usando a função `print()`.
+
+2. **Formatação de Strings com `f-strings`**  
+   Altere o código para criar uma variável `profissao` com o valor `"Engenheiro de Dados"` e use-a para modificar a frase para:  
+   `"Olá, meu nome é Oseias Farias e minha profissão é Engenheiro de Dados."`
+
+3. **Concatenação de Strings**  
+   Crie um código que concatene três variáveis `nome`, `sobrenome` e `idade` para formar a frase:  
+   `"Meu nome é <nome> <sobrenome> e tenho <idade> anos."`  
+   Use apenas a concatenação `+`.
+
+4. **Uso de `.format()`**  
+   Altere a construção da frase usando o método `.format()` para criar a mensagem:  
+   `"Bem-vindo(a), Oseias Farias! Você está na aula de Python."`
+
+
+5. **Formatando Números em Strings**  
+   Use `f-strings` para exibir os números `n1` e `n2` da seguinte forma:  
+   `"O primeiro número é 20.0 e o segundo número é 30.0."`  
+   Substitua os valores pela soma, subtração, multiplicação e divisão em novas frases.
+
+
+6.  **Faça o cálculo de uma função**  \
+    Faça o falculo da seguinte função
+   `funcao = (A + B) / C * D` onde `A = 23; B = 32; C = 23.25, D = 43.75` 
+    
+
+---
+
+
+### **GABARITO DAS QUESTÕES**
+
+1. **Operações Matemáticas**  
+   - Soma: 75.0  
+   - Subtração: 25.0  
+   - Multiplicação: 1250.0  
+   - Divisão: 2.0  
+   - Exponenciação: \( ~3.355 \times 10^{42} \) (ou aproximadamente esse valor, pois 50 elevado a 25 é muito grande).
+
+2. **Formatação de Strings com `f-strings`**  
+   Resultado:  
+   `"Olá, meu nome é Oseias Farias e minha profissão é Engenheiro de Dados."`
+
+3. **Concatenação de Strings**  
+   Resultado:  
+   `"Meu nome é Oseias Farias e tenho 30 anos."`
+
+4. **Uso de `.format()`**  
+   Resultado:  
+   `"Bem-vindo(a), Oseias Farias! Você está na aula de Python."`
+
+5. **Formatando Números em Strings**  
+   Resultados:
+   - `"O primeiro número é 20.0 e o segundo número é 30.0."`
+   - `"A soma dos números é 50.0."`
+   - `"A subtração dos números é -10.0."`
+   - `"A multiplicação dos números é 600.0."`
+   - `"A divisão dos números é 0.6666666666666666."`
+
+6. **Cálculo da Função**  
+   Função:  
+   $$
+   \text{função} = \frac{(A + B)}{C} \times D
+   $$
+   Onde:  
+   $A = 23 , B = 32 , C = 23.25 , D = 43.75$  
+
+   Resultado:  
+   $\text{função} = 103.2258$ (aproximadamente).
