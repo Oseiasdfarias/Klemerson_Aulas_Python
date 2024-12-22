@@ -1,5 +1,3 @@
-import numpy as np
-
 n1 = 20.0
 n2 = 30.0
 
