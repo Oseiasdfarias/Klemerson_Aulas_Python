@@ -132,10 +132,10 @@ Apresentar o ambiente de desenvolvimento Python, configurar as ferramentas neces
    - `"A divisão dos números é 0.6666666666666666."`
 
 6. **Cálculo da Função**  
-   Função:  
-   $$
-   \text{função} = \frac{(A + B)}{C} \times D
-   $$
+   Função:
+
+   $\text{função} = \frac{(A + B)}{C} \times D$
+   
    Onde:  
    $A = 23 , B = 32 , C = 23.25 , D = 43.75$  
 
